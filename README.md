@@ -38,9 +38,13 @@ The payment funnel analysis shows that a large share of customers never begin th
 Taken together, the Payment Funnel Analysis, Error Analysis, Payment Analysis, and Conversion Rate Over Time charts point to three main issues: a large share of customers never begin the payment process, many who do begin fail to successfully complete it, and payment failures appear to stem from a mix of customer‑side friction (e.g., behavior, input, or clarity issues) and vendor‑side processing problems that are occurring at similar rates.
 
 ![Payment Funnel Analysis](images/Payment-Funnel-Analysis.png)
+This chart shows how subscriptions progress from creation through each payment step and highlights that the largest drop‑off occurs before customers even start the payment process, representing the biggest immediate opportunity to increase paid conversions.
 ![Error Analysis](images/Error-Analysis.png)
+This view breaks down payment failures by error type and stage, revealing a mix of user‑side issues (e.g., invalid details or abandoned attempts) and vendor‑side processing errors that together significantly reduce successful payments.
 ![Payment Analysis](images/Payment-Analysis.png)
+This chart summarizes payment outcomes across the funnel and quantifies how many subscriptions end in successful payment vs. failure, making clear that a meaningful share of interested customers never convert to paid due to friction in the payment experience.
 ![Conversion Rate Over Time](images/Conversion-Rate-Over-Time.png)
+This trend line tracks conversion from subscription created to successfully paid over time, showing how payment performance fluctuates and helping us identify periods where changes in product, process, or vendor reliability may have impacted results.
 
 Business Recomendations:
 * Work with the product manager to get more subscriptions to open the payment portal and try to pay. Right now, many customers never reach the payment page, so we lose revenue early in the funnel. Add simple payment reminder emails, in-app messages, and targeted outreach from customer service to bring more people into the payment flow.
