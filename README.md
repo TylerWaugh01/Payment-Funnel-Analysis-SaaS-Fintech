@@ -1,7 +1,5 @@
 # Payment Funnel Analysis SaaS Fintech
 
-[Data Science Notebook](https://app.hex.tech/big-sql-energy/hex/Tyler-Waugh-BSE-Chapter-10-Project-1-Payment-Funnel-Analysis-032QsKh98MXmuafyuhPXKA/draft/logic)
-
 ## Executive Summary:
 
 Conversion from subscription created to successfully paid is lower than expected at our SaaS company, and we need to understand why so many subscriptions remain unpaid. Using SQL and a Hex notebook on top of our Snowflake data, I rebuilt the payment funnel to track subscriptions from creation through payment portal entry, payment submission, and third‑party vendor processing. The analysis shows that many subscriptions never start the payment process and remain stuck in the “User Has Not Started Payment Process” stage.
